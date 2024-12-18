@@ -1,4 +1,4 @@
-# Plugins
+rank math # Plugins
 
 
 
